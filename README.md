@@ -1,4 +1,7 @@
 # Evaluating the Mamba architecture on the Othello game
+
+stable_branch for derivate developments
+
 This repo provides the code to implement the famous ["OthelloGPT" experiment](https://thegradient.pub/othello/) with the Mamba,  Transformer and Jamba architectures. It should be hackable enough to be modified to your needs - eg. replace Othello with chess.
 
 <p align="center">
